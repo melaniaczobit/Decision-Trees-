@@ -1,4 +1,7 @@
-# Loan-Approval
+# Decision Trees 
+
+Project: Loan Approval
+
 Goal: To examine credit card creditability and determine loan approval outcome 
 The project aimed to analyze various attributes to build a classification model using two different methods: **Decision Tree** and **Naïve Bayes**.
 
